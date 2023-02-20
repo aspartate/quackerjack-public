@@ -1,4 +1,6 @@
 # quackerjack
+![QuackerJack](https://user-images.githubusercontent.com/42438803/220203822-b20ae3e6-cd83-42c0-8a4f-40c2492c938f.png)
+
 
 ## Inspiration
 Rubber duck debugging is a centuries-old technique trusted by programmers all over the world. However, traditionally programmers have had to supply both sides of the conversation when talking to their duck. This wastes valuable developer time, which is bad for maximizing shareholder value.
